@@ -90,7 +90,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Contact
 
-Have questions or need assistance? Drop us a message at [contact@email.com](mailto:contact@email.com).
+Have questions or need assistance? Drop us a message at [sujaandraws@gmail.com](mailto:sujaandraws@gmail.com).
 You can also connect with the project's creator on LinkedIn: [Sujaan Arora](https://www.linkedin.com/in/sujaan-arora-274584216/).
 
 
